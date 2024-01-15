@@ -23,7 +23,7 @@ ALLOWED_HOSTS = ["currency-rate-app.onrender.com", "localhost", "127.0.0.1"]
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "https://currency-rates-ubqc-lptreddl6-eliasoprados-projects.vercel.app/",
+    "https://currency-rates-ubqc-lptreddl6-eliasoprados-projects.vercel.app",
 ]
 
 
